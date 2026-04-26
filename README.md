@@ -76,6 +76,4 @@ To exit QEMU, press `Ctrl-A` then `X`.
 **Sajjad Taghizadeh**
 * Computer Engineering Student @ University of Tehran
 * [GitHub Profile](https://github.com/sajadTaghizade)
-* [LinkedIn](https://www.linkedin.com/in/sajjad-taghizadeh)
 
-```
