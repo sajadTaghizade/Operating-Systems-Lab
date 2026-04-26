@@ -1,4 +1,4 @@
-```markdown
+
 # 💻 Operating Systems Lab (xv6)
 
 Welcome to my Operating Systems repository! This repository contains the implementation of various assignments and labs based on the **xv6** operating system. xv6 is a modern re-implementation of the Sixth Edition Unix (V6) developed by MIT for educational purposes.
